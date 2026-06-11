@@ -6,13 +6,24 @@ This example is originally modified from [hello, CKB](https://github.com/cryptap
 
 ## Screenshots
 
-!Screenshot 2026-06-11 at 17.29.27.png
-!Screenshot 2026-06-11 at 17.29.47.png
-!Screenshot 2026-06-11 at 17.30.00.png
-!Screenshot 2026-06-11 at 17.30.15.png
-!Screenshot 2026-06-11 at 17.36.18.png
-!Screenshot 2026-06-11 at 17.36.31.png
-!Screenshot 2026-06-11 at 17.36.52.png
-!Screenshot 2026-06-11 at 19.11.22.png
-!Screenshot 2026-06-11 at 19.16.23.png
-!Screenshot 2026-06-11 at 19.16.44.png
+## Screenshots
+
+![Screenshot 1](images/Screenshot%202026-06-11%20at%2017.29.27.png)
+
+![Screenshot 2](images/Screenshot%202026-06-11%20at%2017.29.47.png)
+
+![Screenshot 3](images/Screenshot%202026-06-11%20at%2017.30.00.png)
+
+![Screenshot 4](images/Screenshot%202026-06-11%20at%2017.30.15.png)
+
+![Screenshot 5](images/Screenshot%202026-06-11%20at%2017.36.18.png)
+
+![Screenshot 6](images/Screenshot%202026-06-11%20at%2017.36.31.png)
+
+![Screenshot 7](images/Screenshot%202026-06-11%20at%2017.36.52.png)
+
+![Screenshot 8](images/Screenshot%202026-06-11%20at%2019.11.22.png)
+
+![Screenshot 9](images/Screenshot%202026-06-11%20at%2019.16.23.png)
+
+![Screenshot 10](images/Screenshot%202026-06-11%20at%2019.16.44.png)
