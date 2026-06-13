@@ -6,9 +6,9 @@ This example is originally modified from [hello, CKB](https://github.com/cryptap
 
 ## Screenshots
 
-![Screenshot 5](images/Screenshot%202026-06-11%20at%2017.36.18.png)
+![Screenshot 1](images/Screenshot%2026-06-13%at%01.20.38.png.png)
 
-![Screenshot 6](images/Screenshot%202026-06-11%20at%2017.36.31.png)
+![Screenshot 2](images/Screenshot%2026-06-13%at%01.20.50.png.png)
 
-![Screenshot 7](images/Screenshot%202026-06-11%20at%2017.36.52.png)
+![Screenshot 3](images/Screenshot%2026-06-13%at%01.21.10.png.png)
 
